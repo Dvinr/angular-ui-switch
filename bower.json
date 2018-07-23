@@ -1,9 +1,10 @@
 {
-  "name": "angular-ui-switch",
-  "version": "0.1.1",
+  "name": "@Dvinr/angular-ui-switch",
+  "version": "0.2.0",
   "main": ["angular-ui-switch.js", "angular-ui-switch.css"],
   "authors": [
-    "xpeper <xpepermint@gmail.com>"
+    "xpeper <xpepermint@gmail.com>",
+    "jacob c. smith <jacob.c.smith@dvinr.com>"
   ],
   "description": "iOS 7 style switch directive for AngularJS",
   "keywords": [
@@ -19,7 +20,7 @@
     "form"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/xpepermint/angular-ui-switch",
+  "homepage": "https://github.com/Dvinr/angular-ui-switch",
   "ignore": [
     "**/.*",
     "node_modules",

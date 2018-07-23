@@ -1,14 +1,15 @@
 {
-  "name": "angular-ui-switch",
-  "version": "0.1.1",
+  "name": "@Dvinr/angular-ui-switch",
+  "version": "0.2.0",
   "description": "iOS 7 style switch directive for AngularJS",
-  "main": "angular-ui-switch.js",
+  "main": "index.js",
+  "style": "angular-ui-switch.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/xpepermint/angular-ui-switch.git"
+    "url": "git://github.com/Dvinr/angular-ui-switch.git"
   },
   "keywords": [
     "angular",
@@ -25,9 +26,9 @@
   "author": "xpeper <xpepermint@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xpepermint/angular-ui-switch/issues"
+    "url": "https://github.com/Dvinr/angular-ui-switch/issues"
   },
-  "homepage": "https://github.com/xpepermint/angular-ui-switch",
+  "homepage": "https://github.com/Dvinr/angular-ui-switch",
   "devDependencies": {
     "minify": "^1.0.4",
     "uglify-js": "^2.4.15"
